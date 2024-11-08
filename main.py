@@ -10,6 +10,11 @@ profile_directory = 'C:/Profile EMAIL-SCARPING'
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument(f'--user-data-dir={profile_directory}')
 chrome_options.add_argument('--headless=new')
+
+
+
+
+
 driver = webdriver.Chrome(max_ws_size=2**50, options=chrome_options)
 driver.set_single_proxy("http://ULdpEUe3yNcfojM5:4u1NN4VkgnKp17Ja_streaming-1@geo.iproyal.com:12321")
 
@@ -18,7 +23,7 @@ niche = "influencer"
 domain = "@gmail.com"
 site = "instagram.com"
 
-query = f"{first_query}+{niche}+@gmail.com+site:instagram.com"
+query = f"{first_query}+{niche}+{domain}+site:{site}"
 driver.get(f"https://www.google.com/search?q={query}")
 sleep(3)
 
