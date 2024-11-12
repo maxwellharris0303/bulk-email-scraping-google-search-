@@ -1,5 +1,3 @@
-Bessemer
-Paducah
 Birmingham
 Cordova
 Center Point
@@ -154,7 +152,6 @@ Homestead
 Immokalee
 Iona
 Ives Estates
-Jacksonville
 Jacksonville Beach
 Jasmine Estates
 Jupiter
@@ -318,16 +315,13 @@ Chamblee
 Columbus
 Conyers
 Dalton
-Decatur
 Douglasville
 Dublin
 Duluth
 Dunwoody
 East Point
 Evans
-Fayetteville
 Forest Park
-Gainesville
 Griffin
 Hinesville
 Kennesaw
@@ -338,7 +332,6 @@ Lithia Springs
 Mableton
 Macon
 Marietta
-Martinez
 McDonough
 Milledgeville
 Newnan
@@ -377,13 +370,11 @@ Belleville
 Carbondale
 Charleston
 Collinsville
-Decatur
 East Saint Louis
 Edwardsville
 Fairview Heights
 Godfrey
 Granite City
-Jacksonville
 Marion
 Mattoon
 Mount Vernon
@@ -397,7 +388,6 @@ Broad Ripple
 Brownsburg
 Carmel
 Clarksville
-Columbus
 Evansville
 Fishers
 Greenfield
@@ -423,7 +413,6 @@ Hays
 Hutchinson
 Junction City
 Kansas City
-Lawrence
 Leavenworth
 Leawood
 Lenexa
@@ -445,7 +434,6 @@ Danville
 Elizabethtown
 Erlanger
 Fern Creek
-Florence
 Fort Thomas
 Frankfort
 Georgetown
@@ -454,7 +442,6 @@ Highview
 Hopkinsville
 Independence
 Ironville
-Jeffersontown
 Lexington
 Lexington-Fayette
 Louisville
@@ -468,9 +455,7 @@ Okolona
 Owensboro
 Pleasure Ridge Park
 Radcliff
-Richmond
 Saint Matthews
-Shelbyville
 Shively
 Valley Station
 Winchester
@@ -603,14 +588,12 @@ Wheaton
 White Oak
 Woodlawn
 Affton
-Arnold
 Ballwin
 Belton
 Blue Springs
 Cape Girardeau
 Chesterfield
 Clayton
-Columbia
 Concord
 Creve Coeur
 East Independence
@@ -621,10 +604,8 @@ Gladstone
 Grandview
 Hannibal
 Hazelwood
-Independence
 Jefferson City
 Joplin
-Kansas City
 Kirkwood
 Lee's Summit
 Lemay
@@ -633,7 +614,6 @@ Manchester
 Maryland Heights
 Mehlville
 Nixa
-O'Fallon
 Oakville
 Overland
 Ozark
@@ -642,40 +622,30 @@ Raymore
 Raytown
 Republic
 Rolla
-Saint Charles
 Saint Joseph
 St. Louis
 Saint Peters
 Sedalia
 Sikeston
 Spanish Lake
-Springfield
 University City
 Warrensburg
-Webster Groves
 Wentzville
 Wildwood
 Biloxi
-Brandon
 Clarksdale
-Clinton
-Columbus
 Gautier
 Greenville
-Greenwood
 Gulfport
 Hattiesburg
 Hernando
 Horn Lake
 Jackson
-Laurel
 Long Beach
-Madison
 Meridian
 Natchez
 Ocean Springs
 Olive Branch
-Oxford
 Pascagoula
 Pearl
 Ridgeland
@@ -689,45 +659,36 @@ Apex
 Asheboro
 Asheville
 Boone
-Burlington
 Carrboro
 Cary
 Chapel Hill
 Charlotte
-Clayton
 Clemmons
-Concord
 Cornelius
 Durham
 Eden
 Elizabeth City
-Fayetteville
 Fuquay-Varina
 Garner
 Gastonia
 Goldsboro
 Greensboro
-Greenville
 Havelock
-Henderson
 Hickory
 High Point
 Holly Springs
 Hope Mills
 Huntersville
 Indian Trail
-Jacksonville
 Kannapolis
 Kernersville
 Kinston
 Laurinburg
 Leland
 Lenoir
-Lexington
 Lumberton
 Matthews
 Mint Hill
-Monroe
 Mooresville
 Morganton
 Morrisville
@@ -736,15 +697,11 @@ Pinehurst
 Raleigh
 Roanoke Rapids
 Rocky Mount
-Salisbury
-Sanford
 Shelby
 Stallings
 Statesville
-Thomasville
 Wake Forest
 West Raleigh
-Wilmington
 Wilson
 Winston-Salem
 Atlantic City
@@ -753,7 +710,6 @@ Bridgeton
 Camden
 Cherry Hill
 Glassboro
-Jackson
 Lindenwold
 Maple Shade
 Millville
@@ -768,15 +724,12 @@ Toms River
 Vincentown
 Vineland
 Williamstown
-Athens
 Beavercreek
 Centerville
 Cincinnati
-Columbus
 Dayton
 Fairborn
 Fairfield
-Forest Park
 Grove City
 Hamilton
 Huber Heights
@@ -785,20 +738,16 @@ Lancaster
 Lebanon
 Mason
 Miamisburg
-Middletown
 Norwood
-Oxford
 Pataskala
 Pickerington
 Portsmouth
 Reynoldsburg
 Riverside
 Springboro
-Springfield
 Trotwood
 Upper Arlington
 Vandalia
-White Oak
 Whitehall
 Xenia
 Zanesville
@@ -830,7 +779,6 @@ Owasso
 Ponca City
 Sand Springs
 Sapulpa
-Shawnee
 Stillwater
 Tahlequah
 Tulsa
@@ -838,10 +786,8 @@ Yukon
 Chambersburg
 Chester
 Drexel Hill
-Hanover
 Pennsport
 Philadelphia
-Springfield
 West Chester
 Wharton
 Whitman
@@ -849,20 +795,13 @@ York
 Aiken
 Anderson
 Bluffton
-Charleston
 Clemson
-Columbia
-Conway
 Easley
-Florence
 Goose Creek
-Greenville
-Greenwood
 Greer
 Hanahan
 Hilton Head Island
 Hilton Head
-Lexington
 Mauldin
 Mount Pleasant
 Myrtle Beach
@@ -885,10 +824,8 @@ Brentwood
 Brentwood Estates
 Bristol
 Chattanooga
-Clarksville
 Cleveland
 Collierville
-Columbia
 Cookeville
 Dickson
 Dyersburg
@@ -899,17 +836,14 @@ Ellendale
 Farragut
 Franklin
 Gallatin
-Germantown
 Goodlettsville
 Greeneville
 Hendersonville
 Hermitage
-Jackson
 Johnson City
 Kingsport
 Knoxville
 La Vergne
-Lebanon
 Maryville
 Memphis
 Morristown
@@ -917,12 +851,7 @@ Mount Juliet
 Murfreesboro
 Nashville
 New South Memphis
-Oak Ridge
 Sevierville
-Shelbyville
-Smyrna
-Spring Hill
-Springfield
 Tullahoma
 Abilene
 Addison
@@ -931,7 +860,6 @@ Aldine
 Alice
 Alief
 Allen
-Alton
 Alvin
 Angleton
 Arlington
@@ -942,16 +870,13 @@ Baytown
 Beaumont
 Bedford
 Bellaire
-Belton
 Benbrook
 Brenham
-Brownsville
 Brownwood
 Brushy Creek
 Bryan
 Burleson
 Canyon Lake
-Carrollton
 Cedar Hill
 Cedar Park
 Channelview
@@ -961,7 +886,6 @@ Cleburne
 Cloverleaf
 College Station
 Colleyville
-Conroe
 Converse
 Coppell
 Copperas Cove
@@ -987,14 +911,11 @@ Fort Worth
 Fresno
 Friendswood
 Frisco
-Gainesville
 Galveston
 Garland
 Gatesville
-Georgetown
 Grand Prairie
 Grapevine
-Greenville
 Groves
 Haltom City
 Harker Heights
@@ -1002,7 +923,6 @@ Harlingen
 Highland Village
 Houston
 Humble
-Huntsville
 Hurst
 Hutto
 Irving
@@ -1016,7 +936,6 @@ Kyle
 La Marque
 La Porte
 Lake Jackson
-Lancaster
 Laredo
 League City
 Leander
@@ -1035,7 +954,6 @@ Midlothian
 Mission
 Mission Bend
 Missouri City
-Mount Pleasant
 Murphy
 Nacogdoches
 Nederland
@@ -1045,7 +963,6 @@ North Richland Hills
 Orange
 Palestine
 Paris
-Pasadena
 Pearland
 Pecan Grove
 Pflugerville
@@ -1079,13 +996,11 @@ Sulphur Springs
 Taylor
 Temple
 Terrell
-Texarkana
 Texas City
 The Colony
 The Woodlands
 Tyler
 Universal City
-University Park
 Uvalde
 Victoria
 Waco
@@ -1097,28 +1012,22 @@ West University Place
 White Settlement
 Wichita Falls
 Wylie
-Alexandria
 Annandale
-Arlington
 Ashburn
 Baileys Crossroads
 Blacksburg
 Bon Air
-Bristol
 Buckhall
 Burke
 Cave Spring
 Centreville
 Chantilly
 Charlottesville
-Cherry Hill
 Chesapeake
-Chester
 Christiansburg
 Colonial Heights
 Culpeper
 Dale City
-Danville
 East Hampton
 Fairfax
 Franconia
@@ -1133,8 +1042,6 @@ Hopewell
 Hybla Valley
 Idylwood
 Lake Ridge
-Laurel
-Leesburg
 Lincolnia
 Linton Hall
 Lorton
@@ -1149,18 +1056,15 @@ Newport News
 Norfolk
 Oakton
 Petersburg
-Portsmouth
 Portsmouth Heights
 Radford
 Reston
-Richmond
 Roanoke
 Rose Hill
 Salem
 Short Pump
 South Riding
 South Suffolk
-Springfield
 Staunton
 Sterling
 Sudley
@@ -1173,11 +1077,8 @@ Waynesboro
 West Lynchburg
 West Springfield
 Williamsburg
-Winchester
 Wolf Trap
-Woodlawn
 Beckley
-Charleston
 Clarksburg
 Fairmont
 Huntington
@@ -1185,13 +1086,11 @@ Martinsburg
 Morgantown
 Parkersburg
 Sherwood
-Franklin
 Chillicothe
 Bay City
 Alabaster
 Albertville
 Anniston
-Athens
 Auburn
 Glendale Heights
 North Andover
@@ -1204,19 +1103,14 @@ East Hartford
 East Haven
 East Norwalk
 Enfield
-Fairfield
-Farmington
 Glastonbury
 Guilford
 Hamden
 Hartford
 Killingly Center
 Ledyard
-Madison
-Manchester
 Mansfield City
 Meriden
-Middletown
 Milford
 Montville Center
 Naugatuck
@@ -1229,9 +1123,7 @@ North Haven
 North Stamford
 Norwalk
 Norwich
-Plainfield
 Plainville
-Seymour
 Shelton
 South Windsor
 Southbury
@@ -1256,10 +1148,8 @@ Altoona
 Ames
 Ankeny
 Bettendorf
-Burlington
 Cedar Falls
 Cedar Rapids
-Clinton
 Clive
 Coralville
 Council Bluffs
@@ -1270,11 +1160,9 @@ Fort Dodge
 Indianola
 Iowa City
 Johnston
-Marion
 Marshalltown
 Mason City
 Muscatine
-Newton
 North Liberty
 Ottumwa
 Sioux City
@@ -1282,23 +1170,18 @@ Urbandale
 Waterloo
 Waukee
 West Des Moines
-Addison
 Albany Park
 Algonquin
 Alsip
 Arlington Heights
-Ashburn
 Aurora
 Avondale
-Bartlett
 Batavia
 Bellwood
 Belmont Cragin
 Belvidere
 Bensenville
 Berwyn
-Bloomingdale
-Bloomington
 Blue Island
 Bolingbrook
 Bourbonnais
@@ -1306,13 +1189,11 @@ Bradley
 Bridgeport
 Bridgeview
 Brighton Park
-Brookfield
 Buffalo Grove
 Burbank
 Calumet City
 Carol Stream
 Carpentersville
-Cary
 Champaign
 Chatham
 Chicago
@@ -1322,8 +1203,6 @@ Cicero
 Country Club Hills
 Crest Hill
 Crystal Lake
-Danville
-Darien
 DeKalb
 Deerfield
 Des Plaines
@@ -1334,7 +1213,6 @@ Downers Grove
 East Garfield Park
 East Moline
 East Peoria
-Edgewater
 Elgin
 Elk Grove Village
 Elmhurst
@@ -1342,7 +1220,6 @@ Elmwood Park
 Englewood
 Evanston
 Evergreen Park
-Frankfort
 Franklin Park
 Freeport
 Gage Park
@@ -1355,12 +1232,10 @@ Grand Boulevard
 Grayslake
 Gurnee
 Hanover Park
-Harvey
 Highland Park
 Hinsdale
 Hoffman Estates
 Homer Glen
-Homewood
 Huntley
 Hyde Park
 Irving Park
@@ -1391,7 +1266,6 @@ McKinley Park
 Melrose Park
 Mokena
 Moline
-Montgomery
 Morgan Park
 Morton
 Morton Grove
@@ -1423,7 +1297,6 @@ Park Forest
 Park Ridge
 Pekin
 Peoria
-Plainfield
 Portage Park
 Prospect Heights
 Rock Island
@@ -1443,7 +1316,6 @@ South Elgin
 South Holland
 South Lawndale
 South Shore
-Sterling
 Streamwood
 Sycamore
 Tinley Park
@@ -1452,53 +1324,39 @@ Urbana
 Vernon Hills
 Villa Park
 Wasco
-Washington
 Waukegan
 West Chicago
 West Elsdon
 West Englewood
 West Garfield Park
 West Lawn
-West Ridge
 West Town
-Westchester
 Westmont
-Wheaton
 Wheeling
 Wilmette
-Woodlawn
 Woodridge
-Woodstock
 Yorkville
 Zion
-Anderson
 Crawfordsville
 Crown Point
 Dyer
 East Chicago
 Elkhart
 Fort Wayne
-Frankfort
 Gary
 Goshen
 Granger
 Griffith
-Hammond
 Highland
 Hobart
-Huntington
 Kokomo
 LaPorte
-Lafayette
-Lebanon
 Logansport
-Marion
 Merrillville
 Michigan City
 Mishawaka
 Muncie
 Munster
-New Haven
 Noblesville
 Portage
 Schererville
@@ -1512,10 +1370,7 @@ Agawam
 Amesbury
 Amherst
 Amherst Center
-Arlington
-Ashland
 Attleboro
-Auburn
 Barnstable
 Belmont
 Beverly
@@ -1524,70 +1379,54 @@ Billerica
 Boston
 Brockton
 Brookline
-Burlington
 Cambridge
-Canton
 Chelmsford
 Chelsea
 Chicopee
-Concord
 Danvers
 Dedham
 Dracut
 Duxbury
 East Longmeadow
 Easthampton
-Easton
 Everett
 Fairhaven
 Fall River
 Fitchburg
 Framingham
 Framingham Center
-Franklin
-Gardner
 Gloucester
 Grafton
-Greenfield
-Hanover
 Haverhill
 Holden
 Holyoke
 Jamaica Plain
-Lawrence
 Leominster
-Lexington
 Longmeadow
 Lowell
 Ludlow
 Lynn
 Malden
-Mansfield
 Marblehead
 Marlborough
 Medford
 Melrose
 Methuen
 Middleborough
-Milford
 Milton
 Natick
 Needham
 New Bedford
 Newburyport
-Newton
 North Chicopee
 Northampton
 Norton
-Norwood
 Palmer
 Peabody
 Pittsfield
-Quincy
 Randolph
 Reading
 Rockland
-Salem
 Saugus
 Shrewsbury
 Somerset
@@ -1596,7 +1435,6 @@ South Boston
 South Hadley
 South Peabody
 Southbridge
-Springfield
 Stoneham
 Stoughton
 Sudbury
@@ -1607,25 +1445,16 @@ Wakefield
 Waltham
 Watertown
 Wellesley
-West Springfield
-Westfield
 Westford
 Weymouth
-Wilmington
-Winchester
 Winthrop
 Woburn
 Worcester
 Yarmouth
-Auburn
-Augusta
 Bangor
 Biddeford
-Brunswick
 Lewiston
-Portland
 Saco
-Sanford
 South Portland
 South Portland Gardens
 Waterville
@@ -1637,11 +1466,8 @@ Allendale
 Ann Arbor
 Auburn Hills
 Battle Creek
-Bay City
 Berkley
-Birmingham
 Burton
-Canton
 Clinton Township
 Dearborn
 Dearborn Heights
@@ -1649,7 +1475,6 @@ Detroit
 East Lansing
 Eastpointe
 Farmington Hills
-Ferndale
 Flint
 Forest Hills
 Garden City
@@ -1661,42 +1486,31 @@ Haslett
 Hazel Park
 Holland
 Holt
-Jackson
 Jenison
 Kalamazoo
 Kentwood
-Lansing
-Lincoln Park
 Livonia
 Madison Heights
 Marquette
 Midland
-Monroe
 Mount Clemens
-Mount Pleasant
 Muskegon
 Norton Shores
 Novi
-Oak Park
 Okemos
 Pontiac
 Port Huron
-Portage
 Redford
 Rochester Hills
 Romulus
 Roseville
 Royal Oak
-Saginaw
-Shelby
 Southfield
 Southgate
 Saint Clair Shores
 Sterling Heights
-Taylor
 Traverse City
 Trenton
-Troy
 Walker
 Warren
 Waterford
@@ -1710,9 +1524,7 @@ Albert Lea
 Andover
 Anoka
 Apple Valley
-Austin
 Blaine
-Bloomington
 Brooklyn Center
 Brooklyn Park
 Buffalo
@@ -1724,13 +1536,11 @@ Columbia Heights
 Coon Rapids
 Cottage Grove
 Crystal
-Duluth
 Eagan
 Eden Prairie
 Edina
 Elk River
 Faribault
-Farmington
 Forest Lake
 Fridley
 Golden Valley
@@ -1761,8 +1571,6 @@ Red Wing
 Richfield
 Rochester
 Rosemount
-Roseville
-Saint Cloud
 Saint Louis Park
 Saint Michael
 Saint Paul
@@ -1771,7 +1579,6 @@ Savage
 Shakopee
 Shoreview
 South Saint Paul
-Stillwater
 West Coon Rapids
 West Saint Paul
 White Bear Lake
@@ -1784,35 +1591,24 @@ Grand Forks
 Jamestown
 West Fargo
 Bellevue
-Columbus
 Fremont
 Grand Island
-Hastings
 Kearney
 La Vista
 Lincoln
-Norfolk
 Omaha
 Papillion
-Bedford
-Concord
 Derry
 Derry Village
-Dover
 East Concord
 Keene
 Laconia
-Manchester
 Merrimack
 Nashua
-Portsmouth
-Rochester
-Salem
 Asbury Park
 Avenel
 Basking Ridge
 Bayonne
-Belleville
 Bergenfield
 Bloomfield
 Carteret
@@ -1821,14 +1617,11 @@ Clifton
 Colonia
 Cranford
 Denville
-Dover
 Dumont
 East Brunswick
 East Orange
 Edison
 Elizabeth
-Elmwood Park
-Englewood
 Ewing
 Fair Lawn
 Fords
@@ -1851,22 +1644,15 @@ Livingston
 Lodi
 Long Branch
 Lyndhurst
-Madison
 Mahwah
-Maplewood
 Marlboro
-Middletown
-Montclair
-Morristown
 New Brunswick
 New Milford
-Newark
 North Arlington
 North Bergen
 North Plainfield
 Nutley
 Old Bridge
-Orange
 Palisades Park
 Paramus
 Parsippany
@@ -1874,19 +1660,14 @@ Passaic
 Paterson
 Perth Amboy
 Piscataway
-Plainfield
 Point Pleasant
-Princeton
 Rahway
-Ramsey
 Ridgewood
-Roselle
 Rutherford
 Sayreville
 Sayreville Junction
 Scotch Plains
 Secaucus
-Somerset
 South Old Bridge
 South Orange
 South Plainfield
@@ -1895,25 +1676,17 @@ Sparta
 Summit
 Teaneck
 Tinton Falls
-Trenton
 Union
-Union City
 Voorhees
-Wayne
 West Milford
 West New York
 West Orange
-Westfield
 Willingboro
 Woodbridge
 Wyckoff
-Albany
-Amherst
 Amsterdam
 Astoria
-Auburn
 Baldwin
-Batavia
 Bath Beach
 Bay Shore
 Baychester
@@ -1923,14 +1696,11 @@ Bensonhurst
 Bethpage
 Binghamton
 Borough Park
-Brentwood
 Brighton
 Brighton Beach
 The Bronx
 Brooklyn
 Brooklyn Heights
-Brownsville
-Buffalo
 Bushwick
 Cambria Heights
 Canarsie
@@ -1938,7 +1708,6 @@ Centereach
 Central Islip
 Cheektowaga
 Chinatown
-Cicero
 Clay
 Clifton Park
 Cohoes
@@ -1950,7 +1719,6 @@ Coram
 Corona
 Cortland
 Cypress Hills
-Deer Park
 Depew
 Dix Hills
 Dyker Heights
@@ -1960,14 +1728,12 @@ East Flatbush
 East Meadow
 East Massapequa
 East New York
-East Northport
 East Patchogue
 East Setauket
 East Tremont
 East Village
 Eastchester
 Eggertsville
-Elmhurst
 Elmira
 Elmont
 Emerson Hill
@@ -1977,34 +1743,27 @@ Flatbush
 Flatlands
 Floral Park
 Fordham
-Forest Hills
 Fort Hamilton
 Franklin Square
-Freeport
 Fresh Meadows
-Garden City
 Glen Cove
 Glendale
 Gloversville
-Grand Island
 Graniteville
 Gravesend
 Great Kills
 Greenburgh
 Greenpoint
 Harlem
-Harrison
 Hauppauge
 Hell's Kitchen
 Hempstead
 Henrietta
 Hicksville
-Hillside
 Holbrook
 Hollis
 Holtsville
 Howard Beach
-Huntington
 Huntington Station
 Hunts Point
 Irondequoit
@@ -2012,11 +1771,9 @@ Islip
 Ithaca
 Jackson Heights
 Jamaica
-Jamestown
 Kenmore
 Kensington
 Kew Gardens
-Kings Bridge
 Kings Park
 Kingston
 Kiryas Joel
@@ -2026,31 +1783,23 @@ Latham
 Laurelton
 Levittown
 Lindenhurst
-Lockport
-Long Beach
 Long Island City
 Lynbrook
 Mamaroneck
-Manhattan
 Mariners Harbor
 Maspeth
 Massapequa
 Massapequa Park
 Mastic
-Medford
-Melrose
 Melville
 Merrick
 Middle Village
-Middletown
 Mineola
 Monsey
 Morris Heights
 Morrisania
 Mott Haven
-Mount Vernon
 Nanuet
-New City
 New Rochelle
 New Springville
 New York City
@@ -2065,7 +1814,6 @@ North Tonawanda
 North Valley Stream
 Oceanside
 Ossining
-Oswego
 Ozone Park
 Park Slope
 Parkchester
@@ -2082,14 +1830,9 @@ Queens
 Queensbury
 Rego Park
 Richmond Hill
-Ridgewood
-Rochester
 Rockville Centre
-Rome
 Ronkonkoma
 Roosevelt
-Rosedale
-Rossville
 Rotterdam
 Rye
 Saratoga Springs
@@ -2111,7 +1854,6 @@ Syracuse
 Terrace Heights
 Throgs Neck
 Tremont
-Troy
 Uniondale
 Unionport
 University Heights
@@ -2119,10 +1861,8 @@ Utica
 Valley Stream
 Van Nest
 Vestal
-Wakefield
 Wantagh
 Washington Heights
-Watertown
 West Albany
 West Babylon
 West Hempstead
@@ -2131,7 +1871,6 @@ West Seneca
 Westbury
 White Plains
 Whitestone
-Williamsburg
 Woodhaven
 Woodmere
 Woodrow
@@ -2139,35 +1878,26 @@ Woodside
 Yonkers
 Akron
 Alliance
-Ashland
 Ashtabula
-Aurora
 Austintown
-Avon
 Avon Center
 Avon Lake
 Barberton
 Bay Village
 Berea
 Boardman
-Bowling Green
 Broadview Heights
 Brook Park
-Brunswick
-Canton
-Cleveland
 Collinwood
 Cuyahoga Falls
 Defiance
 Delaware
-Dublin
 East Cleveland
 Eastlake
 Elyria
 Euclid
 Fairview Park
 Findlay
-Fremont
 Gahanna
 Garfield Heights
 Glenville
@@ -2176,27 +1906,20 @@ Hilliard
 Hough
 Hudson
 Kent
-Lakewood
 Lima
 Lorain
-Mansfield
 Maple Heights
-Marion
 Marysville
 Massillon
 Mayfield Heights
 Medina
 Mentor
 Middleburg Heights
-Mount Vernon
 New Philadelphia
-Newark
-Niles
 North Canton
 North Olmsted
 North Ridgeville
 North Royalton
-Norwalk
 Oregon
 Painesville
 Parma
@@ -2217,42 +1940,31 @@ Sylvania
 Tallmadge
 Tiffin
 Toledo
-Troy
 Twinsburg
 Wadsworth
-Warren
 Westerville
 Westlake
 Willoughby
 Wooster
 Youngstown
-Abington
 Allentown
 Allison Park
-Altoona
 Back Mountain
-Baldwin
 Bensalem
 Bethel Park
 Bethlehem
 Carlisle
-Easton
 Erie
 Harrisburg
 Hazleton
-Hermitage
 Johnstown
 King of Prussia
-Lancaster
 Lansdale
-Lebanon
-Levittown
 Limerick
 McKeesport
 Monroeville
 Mount Lebanon
 Murrysville
-New Castle
 Nicetown-Tioga
 Norristown
 Penn Hills
@@ -2261,11 +1973,9 @@ Pittsburgh
 Plum
 Pottstown
 Radnor
-Reading
 Scranton
 State College
 Upper Saint Clair
-Wayne
 West Mifflin
 Whitehall Township
 Wilkes-Barre
@@ -2273,56 +1983,41 @@ Wilkinsburg
 Williamsport
 Willow Grove
 Barrington
-Bristol
 Central Falls
 Coventry
 Cranston
-Cumberland
 East Providence
-Middletown
 Narragansett
-Newport
 North Kingstown
 North Providence
 Pawtucket
-Portsmouth
 Providence
 Smithfield
 Warwick
 West Warwick
 Westerly
 Woonsocket
-Aberdeen
 Brookings
 Mitchell
 Sioux Falls
-Watertown
-Burlington
 Colchester
 Rutland
 South Burlington
 Appleton
 Ashwaubenon
 Beaver Dam
-Bellevue
 Beloit
-Brookfield
 Caledonia
 Cudahy
 De Pere
 Eau Claire
-Fitchburg
 Fond du Lac
-Franklin
-Germantown
 Green Bay
-Greenfield
 Howard
 Janesville
 Kaukauna
 Kenosha
 La Crosse
-Madison
 Manitowoc
 Marshfield
 Menasha
@@ -2347,21 +2042,15 @@ South Milwaukee
 Stevens Point
 Sun Prairie
 Superior
-Watertown
 Waukesha
 Wausau
 Wauwatosa
 West Allis
 West Bend
-Weston
 Wisconsin Rapids
 Weirton
 Weirton Heights
-Wheeling
 Ansonia
-Bloomfield
-Bridgeport
-Bristol
 Branford
 Cheshire
 Fillmore
@@ -2372,17 +2061,14 @@ Casas Adobes
 Catalina Foothills
 Chandler
 Deer Valley
-Douglas
 Drexel Heights
 El Mirage
 Eloy
 Flagstaff
-Florence
 Flowing Wells
 Fortuna Foothills
 Fountain Hills
 Gilbert
-Glendale
 Goodyear
 Green Valley
 Kingman
@@ -2394,7 +2080,6 @@ Mesa
 Nogales
 Oro Valley
 Payson
-Peoria
 Phoenix
 Prescott
 Prescott Valley
@@ -2417,7 +2102,6 @@ Adelanto
 Agoura
 Agoura Hills
 Alameda
-Albany
 Alhambra
 Aliso Viejo
 Altadena
@@ -2426,12 +2110,10 @@ American Canyon
 Anaheim
 Antelope
 Antioch
-Apple Valley
 Arcadia
 Arroyo Grande
 Artesia
 Arvin
-Ashland
 Atascadero
 Atwater
 Avocado Heights
@@ -2442,23 +2124,18 @@ Banning
 Barstow
 Barstow Heights
 Bay Point
-Beaumont
 Bell
 Bell Gardens
 Bellflower
-Belmont
 Benicia
 Berkeley
 Beverly Hills
-Bloomington
 Blythe
 Bostonia
 Boyle Heights
 Brawley
 Brea
-Brentwood
 Buena Park
-Burbank
 Burlingame
 Calabasas
 Calexico
@@ -2477,7 +2154,6 @@ Ceres
 Cerritos
 Chatsworth
 Chico
-Chinatown
 Chino
 Chino Hills
 Chowchilla
@@ -2490,28 +2166,21 @@ Coachella
 Coalinga
 Colton
 Compton
-Concord
 Corcoran
-Corona
 Coronado
 Costa Mesa
 Covina
-Cudahy
 Culver City
 Cupertino
-Cypress
 Daly City
 Dana Point
-Danville
 Davis
 Delano
 Desert Hot Springs
 Diamond Bar
 Dinuba
-Dixon
 Downey
 Duarte
-Dublin
 East Rancho Dominguez
 East Hemet
 East Los Angeles
@@ -2527,7 +2196,6 @@ Encinitas
 Encino
 Escondido
 Fair Oaks
-Fairfield
 Fallbrook
 Florin
 Folsom
@@ -2535,737 +2203,19 @@ Fontana
 Foothill Farms
 Foster City
 Fountain Valley
-Fremont
-Fresno
 Fullerton
 Galt
 Garden Grove
 Gardena
 Gilroy
 Glen Avon
-Glendale
 Glendora
 Goleta
 Granite Bay
-Greenfield
 Hacienda Heights
 Hanford
-Hawthorne
 Hayward
 Hemet
 Hercules
 Hermosa Beach
 Hesperia
-Highland
-Hollister
-Hollywood
-Huntington Beach
-Huntington Park
-Imperial
-Imperial Beach
-Indio
-Inglewood
-Irvine
-Isla Vista
-Koreatown
-La Cañada Flintridge
-La Habra
-La Jolla
-La Mesa
-La Mirada
-La Palma
-La Presa
-La Puente
-La Quinta
-La Verne
-Ladera Ranch
-Lafayette
-Laguna
-Laguna Beach
-Laguna Hills
-Laguna Niguel
-Laguna Woods
-Lake Elsinore
-Lake Forest
-Lakeside
-Lakewood
-Lamont
-Lancaster
-Lathrop
-Lawndale
-Lemon Grove
-Lemoore
-Lennox
-Lincoln
-Linda
-Live Oak
-Livermore
-Lodi
-Loma Linda
-Lomita
-Lompoc
-Long Beach
-Los Altos
-Los Angeles
-Los Banos
-Los Gatos
-Lynwood
-Madera
-Manhattan Beach
-Manteca
-Marina
-Martinez
-Maywood
-Mead Valley
-Menifee
-Menlo Park
-Merced
-Millbrae
-Milpitas
-Jurupa Valley
-Mira Mesa
-Mission District
-Mission Viejo
-Modesto
-Monrovia
-Montclair
-Montebello
-Monterey
-Monterey Park
-Moorpark
-Moraga
-Moreno Valley
-Morgan Hill
-Mountain View
-Murrieta
-Napa
-National City
-Newark
-Newport Beach
-Nipomo
-Norco
-North Highlands
-North Hollywood
-Northridge
-Norwalk
-Novato
-Oakdale
-Oakland
-Oakley
-Oceanside
-Oildale
-Ontario
-Orange
-Orangevale
-Orcutt
-Orinda
-Oroville
-Oxnard
-Pacifica
-Pacific Grove
-Palm Desert
-Palm Springs
-Palmdale
-Palo Alto
-Paradise
-Paramount
-Parlier
-Pasadena
-Paso Robles
-Patterson
-Perris
-Petaluma
-Pico Rivera
-Pinole
-Pittsburg
-Placentia
-Pleasant Hill
-Pleasanton
-Pomona
-Port Hueneme
-Porterville
-Poway
-Prunedale
-Ramona
-Rancho Cordova
-Rancho Cucamonga
-Rancho Mirage
-Rancho Palos Verdes
-Rancho Penasquitos
-Rancho San Diego
-Rancho Santa Margarita
-Redlands
-Redondo Beach
-Redwood City
-Reedley
-Rialto
-Richmond
-Ridgecrest
-Rio Linda
-Ripon
-Riverbank
-Riverside
-Rocklin
-Rohnert Park
-Rosamond
-Rosemead
-Rosemont
-Roseville
-Rowland Heights
-Rubidoux
-Sacramento
-Salinas
-San Bernardino
-San Bruno
-San Carlos
-San Clemente
-San Diego
-San Dimas
-San Fernando
-San Francisco
-San Gabriel
-San Jacinto
-San Jose
-San Juan Capistrano
-San Leandro
-San Lorenzo
-San Luis Obispo
-San Marcos
-San Mateo
-San Pablo
-San Pedro
-San Rafael
-San Ramon
-Sanger
-Santa Ana
-Santa Barbara
-Santa Clara
-Santa Clarita
-Santa Cruz
-Santa Fe Springs
-Santa Maria
-Santa Monica
-Santa Paula
-Santa Rosa
-Santee
-Saratoga
-Seal Beach
-Seaside
-Selma
-North Hills
-Shafter
-Sherman Oaks
-Simi Valley
-Soledad
-South El Monte
-South Gate
-South Lake Tahoe
-South Pasadena
-South San Francisco
-South San Jose Hills
-South Whittier
-South Yuba City
-Spring Valley
-Stanton
-Stockton
-Studio City
-Suisun
-Sun City
-Sunland
-Sunnyvale
-Temecula
-Temple City
-Thousand Oaks
-Torrance
-Tracy
-Truckee
-Tujunga
-Tulare
-Turlock
-Tustin
-North Tustin
-Twentynine Palms
-Ukiah
-Union City
-Universal City
-Upland
-Vacaville
-Valencia
-Valinda
-Vallejo
-Van Nuys
-Venice
-Ventura
-Victorville
-Vincent
-Visalia
-Vista
-Walnut
-Walnut Creek
-Walnut Park
-Watsonville
-West Carson
-West Covina
-West Hollywood
-West Puente Valley
-West Sacramento
-Westminster
-Westmont
-Whittier
-Wildomar
-Willowbrook
-Windsor
-Winter Gardens
-Woodland
-Woodland Hills
-Yorba Linda
-Yuba City
-Yucaipa
-Yucca Valley
-Arvada
-Aurora
-Brighton
-Broomfield
-Cañon City
-Castle Rock
-Castlewood
-Centennial
-Cimarron Hills
-Clifton
-Colorado Springs
-Columbine
-Commerce City
-Denver
-Durango
-Englewood
-Fountain
-Golden
-Grand Junction
-Greenwood Village
-Highlands Ranch
-Ken Caryl
-Lafayette
-Lakewood
-Littleton
-Louisville
-Montrose
-Northglenn
-Parker
-Pueblo
-Pueblo West
-Sherrelwood
-Southglenn
-Thornton
-Westminster
-Wheat Ridge
-Dodge City
-Garden City
-Liberal
-Alamogordo
-Albuquerque
-Carlsbad
-Clovis
-Farmington
-Gallup
-Hobbs
-Las Cruces
-Los Lunas
-Rio Rancho
-Roswell
-Santa Fe
-South Valley
-Sunland Park
-Boulder City
-Carson City
-Enterprise
-Fernley
-Henderson
-Las Vegas
-Mesquite
-North Las Vegas
-Pahrump
-Paradise
-Reno
-Spanish Springs
-Sparks
-Spring Valley
-Sun Valley
-Sunrise Manor
-Whitney
-Winchester
-Amarillo
-Big Spring
-Del Rio
-Dumas
-Eagle Pass
-El Paso
-Hereford
-Horizon City
-Lubbock
-Midland
-Odessa
-Pampa
-Plainview
-San Angelo
-Socorro
-Socorro Mission Number 1 Colonia
-West Odessa
-Cedar City
-Hurricane
-Saint George
-Washington
-Wasco
-Alhambra
-Anthem
-Apache Junction
-Avondale
-Ahwatukee Foothills
-Juneau
-Arcata
-Bayside
-Eureka
-McKinleyville
-Redding
-Susanville
-Boulder
-Erie
-Evans
-Fort Collins
-Greeley
-Longmont
-Loveland
-Windsor
-Boise
-Caldwell
-Coeur d'Alene
-Eagle
-Idaho Falls
-Kuna
-Lewiston
-Lewiston Orchards
-Meridian
-Moscow
-Nampa
-Pocatello
-Post Falls
-Rexburg
-Twin Falls
-Billings
-Bozeman
-Butte
-Great Falls
-Helena
-Kalispell
-Missoula
-Bismarck
-Dickinson
-Mandan
-Minot
-Williston
-North Platte
-Elko
-Albany
-Aloha
-Altamont
-Ashland
-Beaverton
-Bend
-Bethany
-Canby
-Central Point
-Coos Bay
-Corvallis
-Dallas
-Eugene
-Forest Grove
-Four Corners
-Grants Pass
-Gresham
-Happy Valley
-Hayesville
-Hermiston
-Hillsboro
-Keizer
-Klamath Falls
-Lake Oswego
-Lebanon
-Lents
-McMinnville
-Medford
-Milwaukie
-Newberg
-Oak Grove
-Oregon City
-Pendleton
-Portland
-Redmond
-Roseburg
-Salem
-Sherwood
-Springfield
-The Dalles
-Tigard
-Troutdale
-Tualatin
-West Linn
-Wilsonville
-Woodburn
-Rapid City
-Bountiful
-Brigham City
-Centerville
-Clearfield
-Clinton
-Cottonwood Heights
-Draper
-Eagle Mountain
-East Millcreek
-Farmington
-Herriman
-Highland
-Holladay
-Kaysville
-Kearns
-Layton
-Lehi
-Logan
-Magna
-Midvale
-Millcreek
-Murray
-North Ogden
-North Salt Lake
-Ogden
-Orem
-Payson
-Pleasant Grove
-Provo
-Riverton
-Roy
-Salt Lake City
-Sandy
-Sandy Hills
-Saratoga Springs
-South Jordan Heights
-South Jordan
-South Ogden
-South Salt Lake
-Spanish Fork
-Springville
-Syracuse
-Taylorsville
-Tooele
-West Jordan
-West Valley City
-Aberdeen
-Anacortes
-Arlington
-Auburn
-Battle Ground
-Bellevue
-Bellingham
-Bonney Lake
-Bothell
-Bremerton
-Burien
-Camas
-Centralia
-Cottage Lake
-Covington
-Des Moines
-Edmonds
-Ellensburg
-Everett
-Fairwood
-Federal Way
-Five Corners
-Frederickson
-Graham
-Hazel Dell
-Issaquah
-Kenmore
-Kennewick
-Kent
-Kirkland
-Lacey
-Lake Stevens
-Lakewood
-Longview
-Lynnwood
-Maple Valley
-Martha Lake
-Marysville
-Mercer Island
-Mill Creek
-Monroe
-Moses Lake
-Mount Vernon
-Mountlake Terrace
-Mukilteo
-North Creek
-Oak Harbor
-Olympia
-Opportunity
-Orchards
-Parkland
-Pasco
-Port Angeles
-Pullman
-Puyallup
-Redmond
-Renton
-Richland
-Salmon Creek
-Sammamish
-SeaTac
-Seattle
-Shoreline
-Silverdale
-South Hill
-Spanaway
-Spokane
-Spokane Valley
-Sunnyside
-Tacoma
-Tukwila
-Tumwater
-University Place
-Vancouver
-Walla Walla
-Washougal
-Wenatchee
-West Lake Sammamish
-West Lake Stevens
-Bainbridge Island
-Yakima
-Casper
-Cheyenne
-Gillette
-Laramie
-Rock Springs
-Sheridan
-American Fork
-Kahului
-Kailua
-Kaneohe
-Kīhei
-Makakilo City
-Mililani Town
-Pearl City
-Wahiawā
-Wailuku
-Waipahu
-‘Ewa Gentry
-Hilo
-Honolulu
-Eagle River
-Fairbanks
-Anchorage
-Badger
-Milton
-Johns Creek
-Cutler Bay
-Morningside Heights
-East Harlem
-Alafaya
-Millburn
-Briarwood
-Stevenson Ranch
-Fort Bragg
-Kapolei
-City of Milford (balance)
-City of Sammamish
-Silver Firs
-Vineyard
-Gramercy Park
-Kew Gardens Hills
-Wallingford Center
-Braintree
-North Attleborough Center
-Bel Air North
-Bel Air South
-Mercerville-Hamilton Square
-Oxon Hill-Glassmanor
-Gates-North Gates
-Greater Upper Marlboro
-West Falls Church
-Lanham-Seabrook
-Lutherville-Timonium
-Setauket-East Setauket
-St. Charles
-Suitland-Silver Hill
-Fort Leonard Wood
-Saginaw Township North
-West Bloomfield Township
-East Lake-Orient Park
-Four Corners
-Greater Northdale
-Candler-McAfee
-Sandalfoot Cove
-University
-Vero Beach South
-Kendall West
-Palm River-Clair Mel
-Arden-Arcade
-Bryn Mawr-Skyway
-Casa de Oro-Mount Helix
-Florence-Graham
-Fort Hood
-Inglewood-Finn Hill
-La Crescenta-Montrose
-East Hill-Meridian
-Picnic Point-North Lynnwood
-Security-Widefield
-Union Hill-Novelty Hill
-Vincent
-West Whittier-Los Nietos
-Summerlin South
-Makakilo
-Schofield Barracks
-Tri-Cities
-San Tan Valley
-Midway
-Oakleaf Plantation
-East Honolulu
-Old Jamestown
-Bothell West
-Eastmont
-Mill Creek East
-Enchanted Hills
-West Hills
-Detroit-Shoreway
-Clark-Fulton
-The Acreage
-Eastvale
-Oak Hill
-Bridgewater
-Warren Township
-Fairfield Heights
-Chicago Loop
-Greater Grand Crossing
-Auburn Gresham
-Financial District
-Sunset Park
-South Kingstown
-Noe Valley
-Visitacion Valley
-La Porte
-Randolph
-Mount Pleasant
-Northdale
-Waterford
-Meadowbrook
-Lincoln
-Johnston
-Hot Springs National Park
-Dixiana
-Cranberry Township
-Center City
-Silver Lake
-Echo Park
-St. Johns
-Stonecrest
-Cortlandt Manor
-Valley Glen
-Encanto
-Central City
